@@ -361,7 +361,7 @@ footer{
 }
 
 /* media screen */
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
   .header img {
     width: 40px !important;
   }
@@ -538,3 +538,4 @@ footer{
   }
 
 }
+*/
